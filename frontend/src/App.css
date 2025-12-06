@@ -1,0 +1,71 @@
+.login {
+    height: 100vh;
+    background-image: url('/background.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login>form {
+    height: 350px;
+    background-color: transparent;
+    width: 30vw;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px inset white, 2px 2px 2px white;
+    padding: 20px;
+    text-align: center;
+    color: white;
+
+}
+
+.login>form>input::placeholder {
+    color: white;
+}
+
+.menu {
+    height: 100wh;
+    background-image: url('background_menu.jpg');
+}
+
+.contact {
+    height: 100vh;
+    background-image: url('/background.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact>form {
+    height: 350px;
+    background-color: transparent;
+    width: 30vw;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px inset white, 2px 2px 2px white;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.contact>form>input::placeholder {
+    color: white;
+}
+
+.home {
+    height: 100vh;
+    background-image: url('/background2.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about{
+    height: 100vh;
+    background-image: url('/k1.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
